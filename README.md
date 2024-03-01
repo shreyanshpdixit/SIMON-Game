@@ -4,3 +4,4 @@ I created this game using Html, css and JS.
 I used jQuery library for ease of JS code.
 Enjoy!
 
+https://shreyanshpdixit.github.io/SIMON-Game/
